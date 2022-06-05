@@ -5,11 +5,13 @@
 ![](backend_configuration1.jpg)
 
 #### APPLICATION CODE SETUP
+
 - Created new directory for Todo Project 
 ![](application_code_setup.jpg)
 ![](application_code_setup1.jpg)
 
 #### INSTALL EXPRESSJS
+
 - Installing express
 ![](express-installed.jpg)
 
@@ -43,6 +45,7 @@
 ![](postman-get-status.jpg)
 
 ### STEP 2 - FRONTEND CREATION
+
 - Running a React App
 ![](react-installed.jpg)
 
