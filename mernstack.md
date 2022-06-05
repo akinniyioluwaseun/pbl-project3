@@ -1,53 +1,61 @@
-## WEB STACK IMPLEMENTATION (MERN STACK - MONGODB | EXPRESSJS | REACTJS | NODE.JS) IN AWS
+# WEB STACK IMPLEMENTATION (MERN STACK - MONGODB | EXPRESSJS | REACTJS | NODE.JS) IN AWS
 
-### STEP 1 - BACKEND CONFIGURATION 
+## STEP 1 - BACKEND CONFIGURATION 
 ![](backend_configuration1.jpg)
+---
 
-### APPLICATION CODE SETUP
-1. Created new directory for Todo Project 
+## APPLICATION CODE SETUP
+Created new directory for Todo Project 
 ![](application_code_setup.jpg)
+---
 ![](application_code_setup1.jpg)
+---
 
-#### INSTALL EXPRESSJS
-1. Installing express
+## INSTALL EXPRESSJS
+Installing express
 ![](express-installed.jpg)
-
-2. dotenv module installation
+---
+dotenv module installation
 ![](dotenv-installed.jpg)
-
-3. Configuring index.js
+---
+Configuring index.js
 ![](index.js-configured.jpg)
-
-4. Testing Express Server
+---
+Testing Express Server
 ![](testing-express-server.jpg)
-
-5. Routes
+---
+Routes
 ![](routes-and-api.js-configured.jpg)
-
-6. Models
+---
+Models
 ![](models-directory-and-todo.js-configured.jpg)
-
-7. MongoDB
+---
+MongoDB
 ![](mongodb-database-and-collection-created.jpg)
+---
 ![](mongodb-cluster-connect.jpg)
-
-8. Backend Configured
+---
+Backend Configured
 ![](backend-configured-successfully.jpg)
+---
 
-#### TESTING BACKEND CODE WITHOUT FRONTEND USING RESTful API
+## TESTING BACKEND CODE WITHOUT FRONTEND USING RESTful API
 
-1. Postman POST
+Postman POST
 ![](postman-post-status-ok.jpg)
+---
+Postman GET
+![](postman-get-status-ok.jpg)
+---
 
-2. Postman GET
-![](postman-get-status.jpg)
+## STEP 2 - FRONTEND CREATION
 
-### STEP 2 - FRONTEND CREATION
-1. Running a React App
+Running a React App
 ![](react-installed.jpg)
-
-2. Creating your React Components
+---
+Creating your React Components
 ![](creating-react-components.jpg)
-
-3. Frontend Creation
+---
+Frontend Creation
 ![](frontend-configured.jpg)
+---
