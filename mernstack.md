@@ -4,37 +4,50 @@
 ![](backend_configuration1.jpg)
 
 ### APPLICATION CODE SETUP
-- Created new directory for Todo Project 
+1. Created new directory for Todo Project 
 ![](application_code_setup.jpg)
 ![](application_code_setup1.jpg)
 
 #### INSTALL EXPRESSJS
-- Installing express
+1. Installing express
 ![](express-installed.jpg)
-- dotenv module installation
+
+2. dotenv module installation
 ![](dotenv-installed.jpg)
-- Configuring index.js
+
+3. Configuring index.js
 ![](index.js-configured.jpg)
-- Testing Express Server
+
+4. Testing Express Server
 ![](testing-express-server.jpg)
-- Routes
+
+5. Routes
 ![](routes-and-api.js-configured.jpg)
-- Models
+
+6. Models
 ![](models-directory-and-todo.js-configured.jpg)
-- MongoDB
+
+7. MongoDB
 ![](mongodb-database-and-collection-created.jpg)
 ![](mongodb-cluster-connect.jpg)
-- Backend Configured
+
+8. Backend Configured
 ![](backend-configured-successfully.jpg)
+
 #### TESTING BACKEND CODE WITHOUT FRONTEND USING RESTful API
-- Postman POST
+
+1. Postman POST
 ![](postman-post-status-ok.jpg)
-- Postman GET
+
+2. Postman GET
 ![](postman-get-status.jpg)
+
 ### STEP 2 - FRONTEND CREATION
-- Running a React App
+1. Running a React App
 ![](react-installed.jpg)
-- Creating your React Components
+
+2. Creating your React Components
 ![](creating-react-components.jpg)
-- Frontend Creation
+
+3. Frontend Creation
 ![](frontend-configured.jpg)
