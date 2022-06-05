@@ -9,15 +9,25 @@
 
 ### STEP 2 - INSTALL EXPRESSJS
 ![](express-installed.jpg)
+
 - dotenv module installation
 ![](dotenv-installed.jpg)
+
 - Configuring index.js
 ![](index.js-configured.jpg)
+
 - Testing Express Server
 ![](testing-express-server.jpg)
+
 - Routes
 ![](routes-and-api.js-configured.jpg)
+
 - Models
 ![](models-directory-and-todo.js-configured.jpg)
+
 - MongoDB
-![]()
+![](mongodb-database-and-collection-created.jpg)
+![](mongodb-cluster-connect.jpg)
+
+- Backend Configured
+![](backend-configured-successfully.jpg)
