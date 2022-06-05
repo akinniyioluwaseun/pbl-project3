@@ -12,50 +12,51 @@ Created new directory for Todo Project
 ---
 
 ## INSTALL EXPRESSJS
-Installing express
+
+### Installing express
 ![](express-installed.jpg)
 ---
-dotenv module installation
+### dotenv module installation
 ![](dotenv-installed.jpg)
 ---
-Configuring index.js
+### Configuring index.js
 ![](index.js-configured.jpg)
 ---
-Testing Express Server
+### Testing Express Server
 ![](testing-express-server.jpg)
 ---
-Routes
+### Routes
 ![](routes-and-api.js-configured.jpg)
 ---
-Models
+### Models
 ![](models-directory-and-todo.js-configured.jpg)
 ---
-MongoDB
+### MongoDB
 ![](mongodb-database-and-collection-created.jpg)
 ---
 ![](mongodb-cluster-connect.jpg)
 ---
-Backend Configured
+### Backend Configured
 ![](backend-configured-successfully.jpg)
 ---
 
 ## TESTING BACKEND CODE WITHOUT FRONTEND USING RESTful API
 
-Postman POST
+### Postman POST
 ![](postman-post-status-ok.jpg)
 ---
-Postman GET
+### Postman GET
 ![](postman-get-status-ok.jpg)
 ---
 
 ## STEP 2 - FRONTEND CREATION
 
-Running a React App
+### Running a React App
 ![](react-installed.jpg)
 ---
-Creating your React Components
+### Creating your React Components
 ![](creating-react-components.jpg)
 ---
-Frontend Creation
+### Frontend Creation
 ![](frontend-configured.jpg)
 ---
